@@ -1,0 +1,1 @@
+<?php echo date('D-M-Y h:I:s', strtotime('2018-01-31 00:00:01'));  ?>
